@@ -53,7 +53,10 @@ python main.py
 
 ### Примеры запросов
 Сначала авторизуйтесь как администратор. Для этого нажмите кнопку Authorize и введите username: admin, password: admin.
+
+
 ![img.png](img.png)
+
 ![img_1.png](img_1.png)
 
 1. Создание пользователя
