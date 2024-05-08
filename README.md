@@ -26,7 +26,7 @@ git clone https://github.com/angheelinaa/SHIFT_Test_Task.git
 
 2. Перейдите в директорию проекта и при необходимости измените файл `.env`
 
-3. Установите зависимости
+3. Установите зависимости (убедитесь, что установлен poetry, иначе воспользуйтесь `pip install poetry`)
 ```bash
 poetry install
 ```

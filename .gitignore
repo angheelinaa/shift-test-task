@@ -23,6 +23,8 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+.idea/
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
@@ -42,7 +44,6 @@ cover/
 __pypackages__/
 
 # Environments
-.env
 .venv
 env/
 venv/
